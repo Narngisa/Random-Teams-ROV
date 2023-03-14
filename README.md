@@ -1,5 +1,5 @@
 # Random Teams ROV
-A script randomly names 10 people in the names value as a team of 5 people, 2 teams without arguing about who is on the team.
+A script will random names 10 people in the names value as a team of 5 people, 2 teams without arguing about who is on the team.
 
 ## How to setting names value❗
 This script, you can edit the name in the names value.
